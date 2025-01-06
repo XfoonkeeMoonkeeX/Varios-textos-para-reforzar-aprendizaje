@@ -8,23 +8,23 @@ Este repositorio contiene una colección de materiales educativos diseñados par
 
 ### Archivos sobre Python
 
-- **140+ Basic Python Programs**: Un libro que recopila 150 comandos básicos en Python, ideal para quienes comienzan a aprender programación en este lenguaje.
-- **Advance Python Tutorial**: Un tutorial avanzado que cubre conceptos más complejos de Python, diseñado para quienes desean profundizar su conocimiento.
-- **Automate the Boring Stuff with Python (2015)**: Una introducción a la automatización con Python, enfocada en simplificar tareas cotidianas y hacerlas más eficientes.
+- **140+ Basic Python Programs**: Un libro que recopila 150 comandos básicos en Python, ideal para quienes comienzan a aprender programación en este lenguaje. (Subido el 21 de diciembre de 2024).
+- **Advance Python Tutorial**: Un tutorial avanzado que cubre conceptos más complejos de Python, diseñado para quienes desean profundizar su conocimiento. (Subido el 31 de diciembre de 2024).
+- **Automate the Boring Stuff with Python (2015)**: Una introducción a la automatización con Python, enfocada en simplificar tareas cotidianas y hacerlas más eficientes. (Subido el 4 de noviembre de 2024).
 
 ### Archivos sobre SQL
 
-- **Complex Queries SQL**: Una guía con comandos SQL para trabajar con consultas complejas, con ejemplos claros y detallados.
-- **The Complete SQL Handbook**: Un manual completo de SQL, que abarca desde conceptos básicos hasta avanzados, acompañado de ejercicios prácticos.
+- **Complex Queries SQL**: Una guía con comandos SQL para trabajar con consultas complejas, con ejemplos claros y detallados. (Subido el 21 de diciembre de 2024).
+- **The Complete SQL Handbook**: Un manual completo de SQL, que abarca desde conceptos básicos hasta avanzados, acompañado de ejercicios prácticos. (Subido el 6 de noviembre de 2024).
 
 ### Documentos sobre Estructuras de Control
 
-- **Estructuras de Control.pdf**: Una introducción a los fundamentos y aplicaciones de las estructuras de control en programación.
-- **Estructuras de Control 2.pdf**: Una continuación que incluye ejemplos prácticos y explicaciones adicionales.
+- **Estructuras de Control.pdf**: Una introducción a los fundamentos y aplicaciones de las estructuras de control en programación. (Subido el 31 de octubre de 2024).
+- **Estructuras de Control 2.pdf**: Una continuación que incluye ejemplos prácticos y explicaciones adicionales. (Subido el 31 de octubre de 2024).
 
 ### Otros Recursos
 
-- **Cuaderno-Docente_FP.pdf**: Material didáctico para docentes enfocado en la formación profesional.
+- **Cuaderno-Docente_FP.pdf**: Material didáctico para docentes enfocado en la formación profesional. (Subido el 31 de octubre de 2024).
 
 ---
 
